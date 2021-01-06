@@ -35,9 +35,9 @@ Submit data_stream.py as a Spark Job.
 ### Progress Output
 
 
-![Progress O/P 1](Screenshots/progress1.png)
-![Progress O/P 2](Screenshots/progress2.png)
-![Progress O/P 3](Screenshots/progress3.png)
+![Progress O/P 1](Screenshots/Progress1.png)
+![Progress O/P 2](Screenshots/Progress2.png)
+![Progress O/P 3](Screenshots/Progress3.png)
 
 
 ### Batch Output
