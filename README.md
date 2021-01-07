@@ -49,6 +49,16 @@ Submit data_stream.py as a Spark Job.
 
 ![Batch Output](Screenshots/BatchResult.png)
 
+### Spark UI
+
+![SparkUI 1](Screenshots/SparkUILogs1.png)
+![SparkUI 2](Screenshots/SparkUILogs2.png)
+![SparkUI 3](Screenshots/SparkUILogs3.png)
+![SparkUI 4](Screenshots/SparkUILogs4.png)
+![SparkUI 5](Screenshots/SparkUILogs5.png)
+![SparkUI 6](Screenshots/SparkUILogs6.png)
+
+
 
 ## Step-3
 
