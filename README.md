@@ -25,6 +25,11 @@ Steps to run the application and test it on Udacity Workspace.
 ![kafka consumer output 1](Screenshots/consumer-sc1.png)
 ![kafka consumer output 1](Screenshots/consumer-sc2.png)
 
+consumer_server.py output
+
+![py consumer output 1](Screenshots/consumerpy-sc1.png)
+![py consumer output 1](Screenshots/consumerpy-sc2.png)
+
 
 ## Step-2
 
